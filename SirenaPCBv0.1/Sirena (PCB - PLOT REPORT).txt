@@ -1,0 +1,47 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena (PCB - PLOT REPORT).txt
+Report Written:     Tuesday, April 25, 2017
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.pcb
+Design Title:       
+Created:            25/04/2017 12:03:35 p.m.
+Last Saved:         25/04/2017 01:22:50 p.m.
+Editing Time:       98 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+PDF Settings
+============
+
+Combine Plots No
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black No
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.mop"
+
+
+PDF Output
+==========
+
+    Layer
+    ---------------
+    Bottom Copper
+    Top Silkscreen
+
+
+End Of Report.

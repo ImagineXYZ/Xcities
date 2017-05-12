@@ -1,0 +1,67 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena (PCB - Design Rule Check Report).txt
+Report Written:     Tuesday, April 25, 2017
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.pcb
+Design Title:       
+Created:            25/04/2017 12:03:35 p.m.
+Last Saved:         25/04/2017 12:59:40 p.m.
+Editing Time:       56 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Gap in Net "OptoOut" between (526.491,478.790) and (538.480,471.170) 
+    OptoOut.
+
+Number of errors found : 1
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        No
+Pads and Vias No
+Shapes        No
+Text          No
+Board         No
+Drills        No
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
