@@ -1,0 +1,59 @@
+Spice Netlist Output
+--------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena (SCH - Spice Netlist Output).txt
+Report Written:     Tuesday, April 25, 2017
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\XCities\Sirena\Sirena.sch
+Design Title:       
+Created:            
+Last Saved:         25/04/2017 11:49:24 a.m.
+Editing Time:       82 min
+Units:              thou (precision 2)
+
+Spice Netlist Created: C:\Users\Bryan\Desktop\Sirena.spn
+
+Errors / Warnings Found:
+------------------------
+Warning, no ground net found.
+Unconnected Pin "U1.167459776".
+Unconnected Pin "U1.167459808".
+Unconnected Pin "U1.167459968".
+Unconnected Pin "U1.167459008".
+Unconnected Pin "U1.167460736".
+Unconnected Pin "U1.167460544".
+Unconnected Pin "U1.167460416".
+Unconnected Pin "U1.167460800".
+Unconnected Pin "U1.167460832".
+Unconnected Pin "U1.167460256".
+Unconnected Pin "U1.167460864".
+Unconnected Pin "U1.167429216".
+Unconnected Pin "U1.167428288".
+Unconnected Pin "U1.167428896".
+Warning, Subcircuit "U1" has no "SpiceSubcircuit" value.
+
+The component name "ESP_Thing" will be used.
+Warning, Subcircuit "U2" has no "SpiceSubcircuit" value.
+
+The component name "VO615A-8" will be used.
+Capacitor "CONNRelay1" has no "SpiceCapacitance" value.
+Warning, Subcircuit "U3" has no "SpiceSubcircuit" value.
+
+The component name "DCDC" will be used.
+Capacitor "CONN2" has no "SpiceCapacitance" value.
+Capacitor "CONNSiren1" has no "SpiceCapacitance" value.
+Capacitor "CONNRelay2" has no "SpiceCapacitance" value.
+Capacitor "CONNSW1" has no "SpiceCapacitance" value.
+JFET "JLED1" does not have at least 3 pins.
+Unconnected Pin "U4.273581176".
+Unconnected Pin "U4.273580280".
+Unconnected Pin "U4.273580344".
+Unconnected Pin "U4.273580536".
+Unconnected Pin "U4.273581528".
+Warning, Subcircuit "U4" has no "SpiceSubcircuit" value.
+
+The component name "SN7404N" will be used.
+JFET "JLED2" does not have at least 3 pins.
+
+
+End Of Report.
