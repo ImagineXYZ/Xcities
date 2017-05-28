@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SX1276_e266v02a.PcbDoc   06.05.2013  17:19:08
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SX1276_e266v02a.TXT
+EIA File   : SX1276_e266v02a.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          638              1305.96 mm (51.42 Inch)
+T2        0.4mm (15.748mil)        Round          10               83.41 mm (3.28 Inch)
+T3        0.5mm (19.685mil)        Round          4                30.60 mm (1.20 Inch)
+T4        0.9mm (35.433mil)        Round          35               116.38 mm (4.58 Inch)
+T5        1mm (39.37mil)           Round          2                5.45 mm (0.21 Inch)
+---------------------------------------------------------------------------
+Totals                                            689              1541.80 mm (60.70 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
